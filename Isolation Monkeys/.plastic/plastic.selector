@@ -1,0 +1,4 @@
+repository "Isolation Monkeys 2025-09-22_15-20-06/Isolation Monkeys@2475577834239@cloud"
+  path "/"
+    br "/main"
+    co "/main"
